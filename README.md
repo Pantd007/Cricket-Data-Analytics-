@@ -1,4 +1,7 @@
 # Cricket-Data-Analytics-
+
+Author: Deepak Pant 22M0035@iitb.ac.in
+
 The objective is to select the the best-playing 11 cricket team by performing analysis on T20 world cup 2022 data;
 
 # Steps
