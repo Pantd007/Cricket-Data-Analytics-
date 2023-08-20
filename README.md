@@ -9,7 +9,7 @@ In the world of cricket, selecting the best playing eleven for a match is a crit
 To address this challenge, the project aims to leverage data-driven insights to enhance the process of selecting the final eleven players for a cricket match. The project involves a series of steps that encompass data collection, cleaning, transformation, modeling, and visualization. By employing advanced data analytics techniques, the project seeks to provide a more objective and informed approach to cricket team selection.
 The objective is to select the the best-playing 11 cricket team by performing analysis on T20 world cup 2022 data;
 
-# Data set used
+# Data Set Used
 **Dataset Description:**
 
 The dataset utilized in this project is a comprehensive collection of cricket player statistics obtained from the ESPN Cricinfo website. This dataset encompasses a diverse range of performance metrics for cricket players, including both batting and bowling statistics. The dataset is specifically curated to facilitate the data-driven approach to cricket team selection.
